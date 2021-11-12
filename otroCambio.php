@@ -1,5 +1,4 @@
 <?php
 
-    echo "Texto añadido";
-
+    echo "Texto cambiado";
 ?>
